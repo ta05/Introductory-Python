@@ -12,7 +12,7 @@ This guide walks you through installing the Python3 interpreter and the program 
 * Open the Python installation package in your file explorer and follow the installation instructions.
 
 
-## Download the IDE
+## Downloading the IDE
 
 You have plenty of choices when it comes to the program you would like to use for writing Python code. Below are just a few of these options. The instructions will help you download and setup your IDE.
 
